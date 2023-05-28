@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dexter-Err
+- ALX student
+- 🌱 I’m currently learning C
+- 📫 How to reach me mustachgata@gmail.com
